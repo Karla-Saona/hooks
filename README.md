@@ -22,9 +22,7 @@ Sigue estos pasos para crear un hook personalizado:
 Y ahora crea tu hook con `useEffect` y `useState`:
 
 ### Utilizando el Hook Personalizado
-
 Para utilizar el hook personalizado en tus componentes, sigue estos pasos:
-
 1. Importa el hook personalizado en tu archivo de componente, en este caso será en `App.jsx`
 2. Llama al hook personalizado dentro de tu componente `App.jsx`
 3. Crearemos nuestra plantilla para poder renderizar el personaje de Pokemon con su nombre e imagen y el de Rick and Morty.
